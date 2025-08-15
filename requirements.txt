@@ -6,3 +6,11 @@ langchain-groq
 langchain-tavily
 langgraph-cli[inmem]
 langchain-community
+pymupdf
+transformers
+frontend
+Pillow
+torch
+scikit-learn
+faiss-cpu
+langchain-openai
